@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TIC-TAC-TOE</string>
+    <string name="welcometext">Welcome to Tic-Tac-Toe</string>
+    <string name="gridimage">grid</string>
+    <string name="status">SNAKE\'s Turn - Tap to Play!</string>
+    <string name="contentdiscriptionofcell1">cell1oftictactoegrid</string>
+    <string name="contentdiscriptionofcell2">cell2oftictactoegrid</string>
+    <string name="contentdiscriptionofcell3">cell3oftictactoegrid</string>
+    <string name="contentdiscriptionofcell4">cell4oftictactoegrid</string>
+    <string name="contentdiscriptionofcell5">cell5oftictactoegrid</string>
+    <string name="contentdiscriptionofcell6">cell6oftictactoegrid</string>
+    <string name="contentdiscriptionofcell7">cell7oftictactoegrid</string>
+    <string name="contentdiscriptionofcell8">cell8oftictactoegrid</string>
+    <string name="contentdiscriptionofcell9">cell9oftictactoegrid</string>
+
+</resources>
